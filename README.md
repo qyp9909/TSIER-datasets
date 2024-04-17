@@ -1,6 +1,6 @@
 # Availability of data and materials for the TSIER model
 
-Paper title: Generating Explanations for Explainable Recommendations Using Time-Series Information
+Paper title: Generating Explanations for Explainable Recommendations Using Filter-enhanced Time-Series Information
 
 
 The datasets used in this study are available from the Kaggle and USCD public data repositories. 
